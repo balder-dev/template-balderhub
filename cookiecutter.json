@@ -1,0 +1,12 @@
+{
+  "project_name": "Template",
+  "project_full_name": "BalderHub {{ cookiecutter.project_name }}",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "project_full_slug": "balderhub-{{ cookiecutter.project_slug }}",
+  "project_decr_short": "BalderHub Project that can be used as Template",
+  "project_decr_long": "This should be a description of the project, about 1-2 sentences long, which briefly and concisely summarizes what it is about.",
+  "author": "Anonymous",
+  "url_documentation": "https://hub.balder.dev/projects/{{cookiecutter.project_slug}}",
+  "url_source": "https://github.com/balder-dev/{{cookiecutter.project_full_slug}}/",
+  "url_issues": "https://github.com/balder-dev/{{cookiecutter.project_full_slug}}/issues"
+}
