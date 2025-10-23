@@ -1,7 +1,7 @@
 {{ cookiecutter.project_full_name }}
-=========================
+====================================
 
-{{ cookiecutter.project_full_name }}
+{{ cookiecutter.project_decr_long }}
 
 .. note::
    Please note, this package is still under development. If you would like to contribute, take a look into the
@@ -9,11 +9,6 @@
 
 This is a BalderHub package for the `Balder <https://docs.balder.dev/>`_ test framework. If you are new to Balder check
 out the `official documentation <https://docs.balder.dev>`_ first.
-
-What can you do with this project?
-----------------------------------
-
-{{ cookiecutter.project_decr_long }}
 
 
 .. toctree::
