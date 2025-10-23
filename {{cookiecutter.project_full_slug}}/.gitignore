@@ -128,4 +128,4 @@ dmypy.json
 .pyre/
 
 #project specific
-/{{cookiecutter.project_full_slug}}/src/balderhub/{{cookiecutter.project_slug}}/_version.py
+/src/balderhub/{{cookiecutter.project_slug}}/_version.py
