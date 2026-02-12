@@ -21,6 +21,6 @@ If you need more information,
 
 This BalderHub package is free and Open-Source
 
-Copyright (c)  {% now 'utc', '%Y' %}  {{ cookiecutter.project_full_slug }}
+Copyright (c)  {% now 'utc', '%Y' %} {{ cookiecutter.author }}
 
 Distributed under the terms of the MIT license
