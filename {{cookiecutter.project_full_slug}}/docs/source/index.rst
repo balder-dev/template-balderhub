@@ -16,7 +16,7 @@ out the `official documentation <https://docs.balder.dev>`_ first.
 
    installation.rst
    topic_intro.rst
+   examples.rst
    scenarios.rst
    features.rst
-   examples.rst
    utilities.rst
