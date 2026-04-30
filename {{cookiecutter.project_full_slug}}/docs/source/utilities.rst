@@ -9,5 +9,5 @@ This section shows general objects and helper functions that are used with this 
 
 
 .. todo add your scenarios with .. autoclass
-    .. autoclass:: balderhub.{{ cookiecutter.project_slug }}.lib.utilities.MyExampleUtility
+    .. autoclass:: balderhub.{{ cookiecutter.project_slug }}.lib.utils.MyExampleUtility
         :members:
